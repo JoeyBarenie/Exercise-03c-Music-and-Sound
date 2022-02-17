@@ -253,3 +253,6 @@ func move_piece(p, position_change):
 	p.move_piece(p.position + position_change)
 
 
+
+
+
